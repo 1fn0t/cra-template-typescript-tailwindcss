@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-typescript-tailwindcss",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "ts",
+    "tailwindcss",
+    "tailwind"
+  ],
+  "description": "A Typescript template for Create React App that has Tailwind pre-configured",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1fn0t/cra-template-typescript-tailwindcss.git"
+},
+"license": "MIT",
+"engines": {
+    "node": ">=14"
+},
+"bugs": {
+    "url": "https://github.com/1fn0t/cra-template-typescript-tailwindcss/issues"
+},
+"files": [
+    "template",
+    "template.json"
+]
+}
